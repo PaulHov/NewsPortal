@@ -1,0 +1,33 @@
+body {
+	font-family: Georgia;
+}
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.img123 {
+	text-align: center;
+	background: black;
+}
+
+th { width: 9%; }
+
+table {
+	position: sticky;top: 0;z-index: 2;
+	background: white;
+}
+p {
+	padding: 10px;
+	color: gray;
+}
+div {
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.end {
+	text-align: center; 
+}
+
